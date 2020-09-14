@@ -1,0 +1,1293 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!-- saved from url=(0056)https://maktabkhooneh.org/landing/happy-programmers-day/ -->
+<html xmlns="http://www.w3.org/1999/xhtml" dir="rtl" lang="fa-IR"><head profile="https://gmpg.org/xfn/11"><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+    
+    <meta name="google-site-verification" content="WdkM2QBuy7GsByK_iABaxNVC65IEwOoGKAzguz8OADA">
+    <meta name="fontiran.com:license" content="RTCBK">
+
+    
+    
+        <title>مکتب‌خونه | آکادمی آنلاین تخصص‌ها</title>
+<meta name="title" content="مکتب‌خونه | آکادمی آنلاین تخصص‌ها">
+<meta name="description" content=" مکتب‌خونه، بزرگترین رسانه دیجیتال آموزش آنلاین در ایران">
+<meta name="keywords" content="  مکتب‌پلاس  دانشگاه تهران  دانشگاه صنعتی شریف  آموزش آنلاین  آموزش مجازی  maktabkhooneh  مکتب‌خونه ">
+
+
+
+
+<meta property="og:title" content="مکتب‌خونه">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="مکتب‌خونه">
+<meta property="og:url" content="https://maktabkhooneh.org/landing/happy-programmers-day/">
+<meta property="og:image" content="https://maktabkhooneh.org/static/favicons/android-chrome-192x192.png">
+<meta property="og:description" content=" مکتب‌خونه، بزرگترین رسانه دیجیتال آموزش آنلاین در ایران">
+
+
+
+
+
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@maktabkhooneh">
+    
+    
+        <meta name="robots" content="noindex">
+    
+    
+
+        <!--
+   ┬────┬
+  (͡ಠ ͜ʖ͡ಠ)
+   ༽灬灬༼
+   دوباره دنبال گنج میرزایی؟ جای درستی اومدی!
+        
+   اما برای پیدا کردن سرنخ بعدی باید وارد حساب کاربری مکتب‌خونه‌ت بشی.
+        
+    
+
+
+    
+        
+
+<meta name="viewport" content="width=device-width">
+
+<link rel="shortcut icon" type="image/x-icon" href="/static/favicons/favicon.ico">
+<link rel="apple-touch-icon" sizes="57x57" href="/static/favicons/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/static/favicons/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/static/favicons/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/static/favicons/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/static/favicons/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/static/favicons/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/static/favicons/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/static/favicons/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/static/favicons/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/static/favicons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="194x194" href="/static/favicons/favicon-194x194.png">
+<link rel="icon" type="image/png" sizes="192x192" href="/static/favicons/android-chrome-192x192.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/static/favicons/favicon-16x16.png">
+<link rel="manifest" href="/static/favicons/site.webmanifest">
+<link rel="mask-icon" href="/static/favicons/safari-pinned-tab.svg" color="#2e84a2">
+<link rel="canonical" href="https://maktabkhooneh.org/landing/happy-programmers-day/" >
+<meta name="apple-mobile-web-app-title" content="مکتب&zwnj;خونه">
+<meta name="application-name" content="مکتب&zwnj;خونه">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/static/favicons/mstile-144x144.png">
+<meta name="msapplication-config" content="/static/favicons/browserconfig.xml">
+<meta name="theme-color" content="#009ca7">
+
+<script>
+    dataLayer = [];
+</script>
+<!-- Google Tag Manager -->
+<script id="ua-script-yn-1977-adv" data-analyticsobject="yektanet" async="" type="text/javascript" src="./مکتب_خونه _ آکادمی آنلاین تخصص_ها_files/rg.complete.js.download"></script><script type="text/javascript" async="" src="./مکتب_خونه _ آکادمی آنلاین تخصص_ها_files/analytics.js.download"></script><script type="text/javascript" async="" src="./مکتب_خونه _ آکادمی آنلاین تخصص_ها_files/js"></script><script type="text/javascript" async="" src="./مکتب_خونه _ آکادمی آنلاین تخصص_ها_files/recaptcha__fa.js.download"></script><script async="" src="./مکتب_خونه _ آکادمی آنلاین تخصص_ها_files/analytics.js.download"></script><script type="text/javascript" async="" defer="" src="./مکتب_خونه _ آکادمی آنلاین تخصص_ها_files/piwik.js.download"></script><script async="" src="./مکتب_خونه _ آکادمی آنلاین تخصص_ها_files/gtm.js.download"></script><script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+        new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-MWXTX9B');</script>
+<!-- End Google Tag Manager -->
+<!-- Hotjar Tracking Code for https://maktabkhooneh.org/ -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:1083912,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script><script async="" src="./مکتب_خونه _ آکادمی آنلاین تخصص_ها_files/hotjar-1083912.js.download"></script>
+<!-- End Hotjar -->
+<link rel="stylesheet" href="./مکتب_خونه _ آکادمی آنلاین تخصص_ها_files/style.css" type="text/css" media="screen">
+
+
+
+    <script type="text/javascript">
+        (function(){
+            var now = new Date();
+            var version = now.getFullYear().toString() + "0" + now.getMonth() + "0" + now.getDate() + "0" + now.getHours();
+            var head = document.getElementsByTagName("head")[0];
+            var link = document.createElement("link");
+            link.rel = "stylesheet";
+            link.href = "https://app.najva.com/static/css/local-messaging.css" + "?v=" + version; head.appendChild(link);
+            var script = document.createElement("script");
+            script.type = "text/javascript";
+            script.async = true;
+            script.src = "https://app.najva.com/static/js/scripts/maktabkhooneh-website-6940-e8a843f2-d543-46f6-ad61-f6f3b578b9a5.js" + "?v=" + version;
+            head.appendChild(script);
+        })()
+    </script><link rel="stylesheet" href="./مکتب_خونه _ آکادمی آنلاین تخصص_ها_files/local-messaging.css"><script type="text/javascript" async="" src="./مکتب_خونه _ آکادمی آنلاین تخصص_ها_files/maktabkhooneh-website-6940-e8a843f2-d543-46f6-ad61-f6f3b578b9a5.js.download"></script>
+
+<link rel="manifest" href="https://maktabkhooneh.org/manifest.json">
+
+
+<!-- Matomo -->
+<script type="text/javascript">
+    var _paq = _paq || [];
+    /* tracker methods like "setCustomDimension" should be called before "trackPageView" */
+    _paq.push(["setDocumentTitle", document.domain + "/" + document.title]);
+    _paq.push(["setCookieDomain", "*.maktabkhooneh.org"]);
+    _paq.push(["setDomains", ["*.maktabkhooneh.org"]]);
+    
+    _paq.push(['trackPageView']);
+    _paq.push(['enableLinkTracking']);
+    (function() {
+        var u="//analytics.maktabkhooneh.org/";
+        _paq.push(['setTrackerUrl', u+'piwik.php']);
+        _paq.push(['setSiteId', '2']);
+        var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+        g.type='text/javascript'; g.async=true; g.defer=true; g.src='/static/js/piwik.js'; s.parentNode.insertBefore(g,s);
+    })();
+
+    (function(i,s,o,g,r,a,m){
+        i['GoogleAnalyticsObject']=r;
+        i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)
+        },i[r].l=1*new Date();
+        a=s.createElement(o),m=s.getElementsByTagName(o)[0];
+        a.async=1;a.src=g;
+        m.parentNode.insertBefore(a,m)
+    })
+    (window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-26479289-1' , 'auto');
+    
+    ga('send', 'pageview');
+
+</script>
+
+
+<script async="" src="./مکتب_خونه _ آکادمی آنلاین تخصص_ها_files/affili-js-last.js.download"></script>
+<script>
+    window.affiliData = window.affiliData || [];
+    function affili(){affiliData.push(arguments);}
+
+    affili('create', 'affilizs3suXwO6DxtnZ7YZnfropehReDxS9Qlp1');
+    affili('detect');
+</script>
+
+
+
+    <script>
+        function onloadCallback(){
+            $(".g-recaptcha").each(function() {
+                var object = $(this);
+                grecaptcha.render(object.attr("id"), {}, true);
+            });
+        }
+    </script>
+    <script src="./مکتب_خونه _ آکادمی آنلاین تخصص_ها_files/api.js.download" async="" defer=""></script>
+    <script>
+        function reCaptchaSubmit(token) {
+            AuthBox.submitCheckActiveUserForm();
+        }
+    </script>
+
+    
+    
+    
+    
+    
+    
+    
+    
+
+<script async="" src="./مکتب_خونه _ آکادمی آنلاین تخصص_ها_files/modules.80ab24a47494089df0d4.js.download" charset="utf-8"></script><style type="text/css">iframe#_hjRemoteVarsFrame {display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;}</style><script type="text/javascript" src="./مکتب_خونه _ آکادمی آنلاین تخصص_ها_files/retargeting.js.download"></script><link rel="stylesheet" href="data:text/css,@import%20url%28%27https%3A//crm.maktabkhooneh.org/assets/chat/chat.css%27%29%3B"><style>
+  .najva-reset: {
+            background-attachment: scroll;
+            background-color: transparent;
+            background-image: none;
+            background-position: 0 0;
+            background-repeat: repeat;
+            border-color: #000;
+            border: medium none currentColor;
+            bottom: auto;
+            clear: none;
+            clip: auto;
+            color: inherit;
+            counter-increment: none;
+            counter-reset: none;
+            cursor: auto;
+            direction: inherit;
+            display: inline;
+            float: none;
+            font-family: inherit;
+            font-size: inherit;
+            font-style: inherit;
+            font-variant: normal;
+            font-weight: inherit;
+            height: auto;
+            left: auto;
+            letter-spacing: normal;
+            line-height: inherit;
+            list-style-type: inherit;
+            list-style-position: outside;
+            list-style-image: none;
+            margin: 0;
+            max-height: none;
+            max-width: none;
+            min-height: 0;
+            min-width: 0;
+            opacity: 1;
+            outline: medium none invert;
+            overflow: visible;
+            padding: 0;
+            position: static;
+            quotes: "" "";
+            right: auto;
+            table-layout: auto;
+            text-align: inherit;
+            text-decoration: inherit;
+            text-indent: 0;
+            text-transform: none;
+            top: auto;
+            unicode-bidi: normal;
+            vertical-align: baseline;
+            visibility: inherit;
+            white-space: normal;
+            width: auto;
+            word-spacing: normal;
+            z-index: auto;
+            background-origin: padding-box;
+            background-clip: border-box;
+            background-size: auto;
+            -o-border-image: none;
+            border-image: none;
+            border-radius: 0;
+            box-shadow: none;
+            box-sizing: content-box;
+            column-count: auto;
+            column-gap: normal;
+            column-rule: medium none #000;
+            column-span: 1;
+            column-width: auto;
+            -webkit-font-feature-settings: normal;
+            font-feature-settings: normal;
+            overflow-x: visible;
+            overflow-y: visible;
+            -webkit-hyphens: manual;
+            -ms-hyphens: manual;
+            hyphens: manual;
+            -ms-perspective: none;
+            -o-perspective: none;
+            perspective: none;
+            -ms-perspective-origin: 50% 50%;
+            -o-perspective-origin: 50% 50%;
+            perspective-origin: 50% 50%;
+            -webkit-backface-visibility: visible;
+            backface-visibility: visible;
+            text-shadow: none;
+            transition: all 0s ease 0s;
+            transform: none;
+            transform-origin: 50% 50%;
+            transform-style: flat;
+            word-break: normal;
+        }
+        .najva-hidden {
+            opacity: 0 !important;
+            visibility: hidden !important;
+        }
+        .najva-float-left {
+            float: left!important;
+        }
+        
+        .najva-float-right {
+            float: right!important;
+        }
+        
+        .najva-clearfix:after, .najva-clearfix:before {
+            content: " "!important;
+            display: table!important;
+        }
+        
+        .najva-clearfix:after {
+            clear: both!important;
+        }
+        
+        .najva-clearfix {
+            zoom: 1!important;
+            width: auto!important;
+        }
+        
+        [najvatooltip] {
+            margin: 20px 60px;
+            position: relative;
+            display: inline-block;
+            font-family: inherit;
+        }
+        
+        [najvatooltip]::before {
+            content: "";
+            position: absolute;
+            top: -6px;
+            left: 50%;
+            transform: translateX(-50%);
+            border-width: 4px 6px 0 6px;
+            border-style: solid;
+            border-color: rgba(0, 0, 0, 0.7) transparent transparent transparent;
+            z-index: 99;
+            opacity: 0;
+        }
+        
+        [najvatooltip-position='left']::before {
+            left: 0%;
+            top: 50%;
+            margin-left: -12px;
+            transform: translatey(-50%) rotate(-90deg)
+        }
+        
+        [najvatooltip-position='top']::before {
+            left: 50%;
+        }
+        
+        [najvatooltip-position='buttom']::before {
+            top: 100%;
+            margin-top: 8px;
+            transform: translateX(-50%) translatey(-100%) rotate(-180deg)
+        }
+        
+        [najvatooltip-position='right']::before {
+            left: 100%;
+            top: 50%;
+            margin-left: 1px;
+            transform: translatey(-50%) rotate(90deg)
+        }
+        
+        [najvatooltip]::after {
+            content: attr(najvatooltip);
+            position: absolute;
+            left: 50%;
+            top: -6px;
+            transform: translateX(-50%) translateY(-100%);
+            background: rgba(0, 0, 0, 0.7);
+            text-align: center;
+            color: #fff;
+            padding: 4px 2px;
+            font-size: 12px;
+            min-width: 80px;
+            border-radius: 5px;
+            pointer-events: none;
+            padding: 4px 4px;
+            z-index: 99;
+            opacity: 0;
+        }
+        
+        [najvatooltip-position='left']::after {
+            left: 0%;
+            top: 50%;
+            margin-left: -8px;
+            transform: translateX(-100%) translateY(-50%);
+        }
+        
+        [najvatooltip-position='top']::after {
+            left: 50%;
+        }
+        
+        [najvatooltip-position='buttom']::after {
+            top: 100%;
+            margin-top: 8px;
+            transform: translateX(-50%) translateY(0%);
+        }
+        
+        [najvatooltip-position='right']::after {
+            left: 100%;
+            top: 50%;
+            margin-left: 8px;
+            transform: translateX(0%) translateY(-50%);
+        }
+        
+        [najvatooltip]:hover::after, [najvatooltip]:hover::before {
+            opacity: 1
+        }
+        
+        #najva-subscribe-bell {
+            -webkit-box-shadow: 0 1px 6px rgba(0, 0, 0, .06), 0 2px 32px rgba(0, 0, 0, .16) !important;
+            box-shadow: 0 1px 6px rgba(0, 0, 0, .06), 0 2px 32px rgba(0, 0, 0, .16) !important;
+            max-width: initial;
+            z-index: 2147483645;
+            position: fixed;
+            width: 50px;
+            height: 50px;
+
+            bottom: 30px;
+            cursor: pointer;
+            background-color: transparent;
+            border-radius: 50%;
+            -webkit-transition: background-color 0.7s;
+            -o-transition: background-color 0.7s;
+            transition: background-color 0.7s;
+            -webkit-box-sizing: border-box;
+            -moz-box-sizing: border-box;
+            box-sizing: border-box;
+        
+        }
+        
+        #najva-subscribe-bell-image-wrapper {
+            padding: 0;
+            margin: 0;
+            border-radius: 50%;
+            width: 50px;
+            height: 50px;
+            text-align: center;
+            /*background-color: #444;*/
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            -webkit-transform: translate(-50%, -50%);
+            -ms-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%);
+            -webkit-transition: width 0.3s, height 0.3s;
+            -o-transition: width 0.3s, height 0.3s;
+            transition: width 0.3s, height 0.3s;
+        }
+        
+        #najva-subscribe-bell-image {
+            width: 40px;
+            height: 40px;
+            position: absolute;
+            left: 50%;
+            top: 50%;
+            max-width: initial;
+            -webkit-transform: translate(-50%, -50%);
+            -ms-transform: translate(-50%, -50%);
+            transform: translate(-50%, -50%);
+            border: 2px solid #fff;
+            border-radius: 50%;
+            padding: 5px;
+            -webkit-transition: width 0.3s, height 0.3s;
+            -o-transition: width 0.3s, height 0.3s;
+            transition: width 0.3s, height 0.3s;
+        }
+        
+        #najva-subscribe-bell:hover #najva-subscribe-bell-image-wrapper {
+            width: 20px;
+            height: 20px;
+        }
+        
+        #najva-subscribe-bell:hover #najva-subscribe-bell-image {
+            width: 50px;
+            height: 50px;
+            border-color: transparent;
+        }
+
+        #najva-subscribe-bell {
+            left: 30px;
+        }
+
+        #najva-subscribe-bell:hover {
+            background-color: #b30ff0;
+        }
+
+        #najva-subscribe-bell-image-wrapper {
+            background-color: #1f0dff;
+        }
+
+        #najva-denied-help-close{
+            position: absolute;
+            top: 0;
+            right: 0;
+            padding: 2px 4px;
+            color: gray;
+            cursor: pointer;
+            border: 1px solid #d6d6d6;
+            border-top-right-radius: 5px;
+            font-size: 15px;
+            font-family: arial;
+        }
+
+        #najva-denied-help{
+            z-index: 2147483645;
+            position: fixed;
+            bottom: 110px;
+            left: 30px;
+            background: white;
+            padding: 25px 15px 15px;
+            color: #000;
+            direction: rtl;
+            border-radius: 5px;
+            width:230px;
+        }
+
+        #najva-denied-help-img{
+            max-width: 100%;
+        }
+        
+        #najva-popup {
+            z-index: 2147483645;
+            -webkit-box-shadow: 0 1px 8px 0 rgba(0,0,0,.2), 0 3px 4px 0 rgba(0,0,0,.14), 0 3px 3px -2px rgba(0,0,0,.12)!important;
+            box-shadow: 0 1px 8px 0 rgba(0,0,0,.2), 0 3px 4px 0 rgba(0,0,0,.14), 0 3px 3px -2px rgba(0,0,0,.12)!important;
+            direction: rtl;
+            position: fixed;
+            
+            width: 500px;
+            top: 0px;
+            left: 50%;
+            -webkit-transform: translateX(-50%);
+            -ms-transform: translateX(-50%);
+            transform: translateX(-50%);
+            background-color: #fff;
+            border-bottom-right-radius: 4px;
+            border-bottom-left-radius: 4px;
+            border: 1px solid #eaeaea;
+            -webkit-transition: opacity 0.5s, visibility 0.5s;
+            -o-transition: opacity 0.5s, visibility 0.5s;
+            transition: opacity 0.5s, visibility 0.5s;
+        }
+
+
+        #najva-popup-image-wrapper {
+            width: 25%;
+            position: absolute;
+            top: 50%;
+            -webkit-transform: translateY(-50%);
+            -ms-transform: translateY(-50%);
+            transform: translateY(-50%);
+            text-align: center;
+        }
+
+        #najva-popup-image {
+            width: 75%;
+            height: auto;
+            vertical-align: middle;
+        }
+
+        #najva-popup-body-wrapper {
+            margin-right: 25%;
+            border-right: 1px solid #eaeaea;
+            padding: 10px;
+            font-size: 1.1em;
+            line-height: 1.2em;
+        }
+
+        #najva-popup-text {
+            margin: 0;
+            line-height: 1.5em;
+            color: #000;
+            font-size: 1em;
+        }
+
+        #najva-popup-description {
+            font-size: 0.8em;
+            color: gray;
+            margin:0;
+        }
+
+        #najva-popup-button-wrapper {
+            margin-top: 7px;
+        }
+
+        .najva-popup-button {
+            -webkit-appearance: button;
+            text-transform: none;
+            overflow: visible;
+            margin: 0;
+            font-family: inherit;
+            display: inline-block;
+            font-weight: 400;
+            text-align: center;
+            white-space: nowrap;
+            vertical-align: middle;
+            -webkit-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+            border: 1px solid transparent;
+            padding: .375rem 1rem;
+            font-size: 1.2em;
+            line-height: 1.5;
+            border-radius: .25rem;
+            transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+            -webkit-transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+            -o-transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out,box-shadow .15s ease-in-out;
+            background: initial;
+        }
+
+        #najva-popup-reject-button:hover {
+            background-color: #e2e6ea!important;
+            border-color: #dae0e5!important;
+        }
+
+        #najva-popup-reject-button {
+            color: #212529!important;
+            background-color: #f8f9fa!important;
+            border-color: #f8f9fa!important; 
+        }
+
+        #najva-popup-accept-button {
+            color: #fff!important;
+            background-color: #007bff!important;
+            border-color: #007bff!important;
+        }
+
+        #najva-popup-accept-button:hover {
+            background-color: #0069d9!important;
+            border-color: #0062cc!important;
+            text-decoration: none;
+        }
+
+        .najva-powered-by {
+            direction: rtl;
+            display: flex;
+            flex-direction: row;
+            color: white;
+            width: 165px;
+            font-size: 12px;
+            align-items: center;
+            font-family: inherit;
+            cursor: pointer;
+        }
+
+        .najva-backdrop-container .najva-powered-by{
+            z-index: 2147483645;
+            position: fixed;
+            bottom: 10px;
+            right: 10px;
+        }
+        .najva-backdrop-container .najva-powered-by.najva-powered-by-up{
+            top: 10px;
+            bottom: unset;
+            width: unset;
+        }
+        
+        .najva-powered-by img {
+            width: 50px;
+            height: 50px;
+            margin-right: -5px;
+            margin-top: -13px;
+        }
+
+    
+        @media screen and (max-width: 767px) {
+            #najva-popup {
+                width: 100%;
+                top: auto;
+                bottom: 0;
+                left:0;
+                -webkit-transform: none;
+                -ms-transform: none;
+                transform: none;
+                border-bottom-right-radius: 0;
+                border-bottom-left-radius: 0;
+                border-top-right-radius: 10px;
+                border-top-left-radius: 10px;
+            }
+
+            #najva-popup-body-wrapper{
+                font-size: 15px;
+            }
+
+            .najva-popup-button {
+                width: 100px;
+                font-size: 1em
+            }
+
+            #najva-popup-button-wrapper {
+                text-align: center;
+                float: inherit;
+            }
+
+            #najva-subscribe-bell {
+                width: 4em;
+                height: 4em;
+                margin:0;
+            }
+
+            #najva-subscribe-bell-image {
+                width: 3em;
+                height: 3em;
+            }
+
+            #najva-subscribe-bell:hover #najva-subscribe-bell-image-wrapper {
+                width: 1em;
+                height: 1em;
+            }
+
+            #najva-subscribe-bell:hover #najva-subscribe-bell-image {
+                width: 4em;
+                height: 4em;
+            }
+
+            #najva-subscribe-bell-image-wrapper {
+                width: 4em;
+                height: 4em;
+            }
+        }
+        
+    </style><style type="text/css">@font-face{
+    font-family: 'bnazanin';
+    src:'./../../fonts/bnazanin.ttf';
+}
+
+.dideo-tooltip {
+    position: relative;
+    display: inline-block;
+    font-family: 'bnazanin';
+    font-size: 0;
+    padding: 3px 5px;
+}
+
+.dideo-tooltip .tooltiptext {
+    visibility: hidden;
+    font-family: 'bnazanin';
+    width: 120px;
+    font-size: 13px;
+    background-color: black;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px 0;
+    position: absolute;
+    z-index: 1;
+    top: 0px;
+    left: 110%;
+}
+.dideo-img{
+    width: 18px;
+    height: 18px;
+    margin-bottom: -3px;
+    filter: drop-shadow(0px 0px 2px #adadad);
+    webkit:filter: drop-shadow(0px 0px 2px #adadad);
+}
+.dideo-tooltip .tooltiptext::after {
+    content: "";
+    position: absolute;
+    top: 50%;
+    right: 100%;
+    margin-top: -5px;
+    border-width: 5px;
+    border-style: solid;
+    border-color: transparent black transparent transparent;
+}
+.dideo-tooltip:hover .tooltiptext {
+    visibility: visible;
+}
+.srg{
+    min-width: 750px;
+}</style><style>
+ .najva-custom-link-container{
+    display: inline-block;
+  }
+
+.najva-custom-link {
+  cursor: pointer;
+  text-transform: uppercase;
+  font-weight: 600;
+  font-family:inherit;
+  border: unset;
+  background-color: unset;
+  font-family: inherit;
+  color: #000
+}
+
+
+.najva-custom-link:active,.najva-custom-link:focus  {
+  border: none;
+  outline: none;
+}
+
+.najva-custom-link.najva-reset {
+  display: inline-block;
+  transition: all .1s;
+}
+
+.najva-reset{
+  font-size: medium;
+  line-height: 1;
+  direction: ltr;
+  text-align: left;
+  text-align: start;
+  font-style: normal;
+  font-weight: 400;
+  text-decoration: none;
+  list-style-type: disc
+}
+
+.najva-custom-link-link{
+  cursor: pointer;
+  text-transform: uppercase;
+  font-weight: 600
+}
+
+.najva-custom-link-link:hover{
+  text-decoration: underline
+}
+
+
+
+.najva-custom-link-link:disabled{
+  background-color : #eee;
+  border-radius : 4px;
+  box-shadow : 1px 1px 1px grey;
+}
+
+.najva-custom-link-button{
+  text-transform: uppercase;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+    font-weight: 600;
+    border-radius: 4px;
+    box-shadow: 1px 1px 1px grey;
+    cursor: pointer;
+    min-width: 100px;
+    text-align: center;
+}
+
+.najva-custom-link-button:hover{
+  text-decoration: none;
+  box-shadow: 2px 3px 4px grey
+}
+
+.najva-custom-link-button:disabled, .najva-custom-link-button:disabled:hover, .najva-custom-link-button:disabled:visited {
+  text-decoration: none;
+  box-shadow: none !important;
+}
+
+.najva-custom-link.najva-custom-link-button.najva-custom-link-small{
+  font-size: 13px;
+  padding: 4px 12px;
+}
+
+.najva-custom-link.najva-custom-link-button.najva-custom-link-medium{
+  font-size: 15px;
+  padding: 8px 16px;
+}
+
+.najva-custom-link.najva-custom-link-button.najva-custom-link-large{
+  font-size: 18px;
+  padding: 12px 20px;
+}
+
+
+.najva-custom-link.najva-custom-link-link.najva-custom-link-small{
+  font-size: 13px;
+}
+
+.najva-custom-link.najva-custom-link-link.najva-custom-link-medium{
+  font-size: 15px;
+}
+
+.najva-custom-link.najva-custom-link-link.najva-custom-link-large{
+  font-size: 18px;
+}
+  </style><script type="text/javascript" src="chrome-extension://aggiiclaiamajehmlfpkjmlbadmkledi/popup.js" async=""></script><script type="text/javascript" src="chrome-extension://aggiiclaiamajehmlfpkjmlbadmkledi/tat_popup.js" async=""></script></head>
+
+<body class="desktop-layout">
+
+
+<noscript>
+    <iframe src="https://www.googletagmanager.com/ns.html?id=GTM-MWXTX9B"
+            height="0"
+            width="0"
+            style="display:none;visibility:hidden">
+    </iframe>
+</noscript>
+<!-- End Google Tag Manager (noscript) -->
+
+
+<!--page-container-->
+<div>
+
+    <!-- body Content -->
+    
+
+    <!-- Navigation -->
+
+    
+        
+
+
+
+    <div class="filler center-aligned navbar__login-pop-up js-overlay-message js-auth-box--sign hidden">
+        <div class="auth-box">
+    <div class="auth-box__field js-auth-box__blur">
+        <div class="filler--top-padded">
+            <h2 class="auth-box__title js-auth-box__title">ورود به مکتب‌خونه</h2>
+        </div>
+        <div class="filler center-aligned js-auth-box-new">
+            <div class="filler--top-padded">
+
+                <form class="filler js-check-active-user-form" action="https://maktabkhooneh.org/auth/check-active-user" method="post">
+    <input type="hidden" name="csrfmiddlewaretoken" value="pl8l2MqmOlwt9soTYfPpNytoV2WbxEy4HADPG1FytKeF5fRtS7SIoxkYqNiWPN4N">
+    <div class="filler">
+        <label class="auth-box__label">پست الکترونیکی یا شماره موبایل</label>
+        <input class="auth-box__input js-auth-box__input english" type="text" autocomplete="username" name="tessera" placeholder="ایمیل یا شماره موبایل (09xxxxxxxxx) خود را وارد کنید" required="">
+        <div class="js-auth-box__email-new auth-box__error"></div>
+        <div id="recaptcha1" class="g-recaptcha" data-sitekey="6Ldz8MAZAAAAAOlWW-Gcs_u3p5H-p3zAa4rtfWpi" data-callback="reCaptchaSubmit" data-size="invisible"><div class="grecaptcha-badge" data-style="bottomright" style="width: 256px; height: 60px; display: block; transition: right 0.3s ease 0s; position: fixed; bottom: 14px; right: -186px; box-shadow: gray 0px 0px 5px; border-radius: 2px; overflow: hidden;"><div class="grecaptcha-logo"><iframe src="./مکتب_خونه _ آکادمی آنلاین تخصص_ها_files/anchor.html" width="256" height="60" role="presentation" name="a-lk5dmtt68jyq" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox"></iframe></div><div class="grecaptcha-error"></div><textarea id="g-recaptcha-response" name="g-recaptcha-response" class="g-recaptcha-response" style="width: 250px; height: 40px; border: 1px solid rgb(193, 193, 193); margin: 10px 25px; padding: 0px; resize: none; display: none;"></textarea></div><iframe __idm_frm__="193" style="display: none;" src="./مکتب_خونه _ آکادمی آنلاین تخصص_ها_files/saved_resource.html"></iframe></div>
+    </div>
+
+    <input class="auth-box__button js-auth__submit button--full fl1" type="submit" value="ادامه">
+
+</form>
+
+                <div class="auth-box__authentication-box js-auth-box__authentication-box hidden">
+                    <form class="filler js-login-authentication-nv-form" action="https://maktabkhooneh.org/auth/login-authentication" method="post">
+    <input type="hidden" name="csrfmiddlewaretoken" value="pl8l2MqmOlwt9soTYfPpNytoV2WbxEy4HADPG1FytKeF5fRtS7SIoxkYqNiWPN4N">
+    <div class="filler js-auth__password">
+        <label class="auth-box__label">رمز عبور</label>
+        <input class="js-auth-box__hidden-tessera" type="text" hidden="" autocomplete="username" name="hidden_username">
+        <input class="auth-box__input" type="password" autocomplete="current-password" name="password" placeholder="رمز عبور خود را وارد کنید" required="">
+        <div class="auth-box__error js-auth__password-new"></div>
+    </div>
+
+    
+    
+    
+
+    <input class="js-auth__submit button--full fl1" type="submit" value="ورود">
+
+</form>
+
+<button class="auth-box__forget-link js-forget-password " data-action="/auth/forget-password">
+    رمز عبورم را فراموش کرده‌ام.
+</button>
+
+                </div>
+
+                <div class="auth-box__verification-code-box js-auth-box__verification-code-box hidden">
+                    <h4 class="auth-box__verification-code-title js-auth-box__check-user"></h4>
+<h4 class="auth-box__verification-code-title">مدت اعتبار کد ۱۰ دقیقه است.</h4>
+
+<form class="filler center-aligned js-check-verification-code-form " action="https://maktabkhooneh.org/auth/check-verification-code" method="post">
+    <input type="hidden" name="csrfmiddlewaretoken" value="pl8l2MqmOlwt9soTYfPpNytoV2WbxEy4HADPG1FytKeF5fRtS7SIoxkYqNiWPN4N">
+
+    <div id="form" class="auth-box__verification-code english-num">
+        <input class="auth-box__verification-code-input" type="text" name="code" maxlength="6" size="6" min="0" max="9" pattern="[0-9]{6}" autocomplete="one-time-code" required="">
+        <div class="auth-box__error js-auth__verification"></div>
+    </div>
+
+    <input class="js-auth__submit button--full fl1" type="submit" value="ادامه">
+
+</form>
+
+<div class="auth-box__new-request-box">
+    <div class="auth-box__new-request">
+        <button type="button" class="auth-box__code js-auth-box__code-color js-request-new-code" data-action="/auth/request-new-verification-code" disabled="disabled"></button>
+    </div>
+    
+        <div class="auth-box__new-request">
+            <a class="auth-box__change js-change-user" dideo-checked="true">تغییر ایمیل یا شماره موبایل</a>
+        </div>
+    
+</div>
+                </div>
+
+                <div class="js-auth-box__set-password-box hidden">
+                    <form class="filler js-set-password-form" action="https://maktabkhooneh.org/auth/set-password" method="post">
+    <input type="hidden" name="csrfmiddlewaretoken" value="pl8l2MqmOlwt9soTYfPpNytoV2WbxEy4HADPG1FytKeF5fRtS7SIoxkYqNiWPN4N">
+    <div class="filler bottom-margin js-auth__password">
+        <label class="auth-box__label">رمز عبور جدید (حداقل ۸ کاراکتر و شامل کاراکتر حرفی)</label>
+        <input class="js-auth-box__hidden-tessera" type="text" hidden="" autocomplete="username" name="hidden_username">
+        <input class="auth-box__input" type="password" name="password" autocomplete="new-password" placeholder="رمز عبور خود را انتخاب کنید" required="">
+        <div class="auth-box__error js-auth__set-password"></div>
+    </div>
+    <input class="js-auth__submit button--full fl1" type="submit" value="ثبت رمز عبور و ورود">
+
+</form>
+                </div>
+
+            </div>
+        </div>
+
+    </div>
+
+        <div class="auth-box__loading js-auth-box__loading">
+            <i class="svg-icon--32"><svg xmlns="http://www.w3.org/2000/svg" class="svg-icon__spinner" width="1000" viewBox="0 0 512 512"><path d="M304 48c0 26.51-21.49 48-48 48s-48-21.49-48-48 21.49-48 48-48 48 21.49 48 48zm-48 368c-26.51 0-48 21.49-48 48s21.49 48 48 48 48-21.49 48-48-21.49-48-48-48zm208-208c-26.51 0-48 21.49-48 48s21.49 48 48 48 48-21.49 48-48-21.49-48-48-48zM96 256c0-26.51-21.49-48-48-48S0 229.49 0 256s21.49 48 48 48 48-21.49 48-48zm12.922 99.078c-26.51 0-48 21.49-48 48s21.49 48 48 48 48-21.49 48-48c0-26.509-21.491-48-48-48zm294.156 0c-26.51 0-48 21.49-48 48s21.49 48 48 48 48-21.49 48-48c0-26.509-21.49-48-48-48zM108.922 60.922c-26.51 0-48 21.49-48 48s21.49 48 48 48 48-21.49 48-48-21.491-48-48-48z"></path></svg></i>
+        </div>
+
+</div>
+
+
+    </div>
+
+    <script>
+        function login_pop_up() {
+            HelperFunctions.showOverlay('js-shadow');
+            $(".js-auth-box--sign").slideDown(500);
+        }
+
+        function signup_pop_up() {
+            HelperFunctions.showOverlay('js-shadow');
+            $(".js-auth-box--signup").slideDown(500);
+        }
+
+    </script>
+
+
+    
+
+    <!-- content-container- -->
+    <div class="container">
+        <!-- Content -->
+        
+    <div class="custom-landing">
+        <div class="filler">
+            
+                <img class="custom-landing__banner" src="./مکتب_خونه _ آکادمی آنلاین تخصص_ها_files/Landing_desktop_yvupMIX.jpg">
+            
+            
+                <img class="custom-landing__banner--mobile" src="./مکتب_خونه _ آکادمی آنلاین تخصص_ها_files/Landing_mobile_uD8AUUR.jpg">
+            
+        </div>
+        <div class="filler--padded">
+            <div class="custom-landing__text rich-text bottom-margin">
+                
+                <p><strong>روز برنامه‌نویس مبارک!&nbsp;</strong></p>
+<p>ما برگشتیم با یه چالش جذاب و جایزه جذاب‌تر!</p>
+<p>برای شرکت تو این چالش یه آشنایی نه‌چندان زیاد با برنامه‌نویسی و کدنویسی لازمه</p>
+<p><strong>و البته باید با دسکتاپ تو سایت مکتب‌خونه لاگین باشین :)</strong></p>
+<p></p>
+<p>
+                            </p><div class="filler center-aligned">
+                                <button class="button fl1" onclick="login_pop_up()">ورود&nbsp; به سایت
+                            </button></div>
+                         <p></p>
+<p></p>
+<p>⏳ <strong>مهلت شرکت در مسابقه:</strong><br>تا دوشنبه 24 شهریور فرصت دارید گنج‌میرزا رو پیدا کنید تا تو قرعه‌کشی شرکت داده بشید</p>
+<p><br>&nbsp;</p><div class="white-cell filler">
+    <div class="filler--padded flex-nowrap js-collapsible__title">
+        <div class="filler--nowrap">
+             🎁⁧&nbsp; <strong>جایزه‌ چی داریم</strong>؟&nbsp; 
+        </div>
+
+        <i class="svg-icon--24 js-collapsible__toggler-icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" viewBox="0 0 24 24">
+    <g fill="none" fill-rule="evenodd" transform="rotate(90 8 14.5)">
+        <path d="M11.307 11.536l-8.842 9.026a1.419 1.419 0 0 1-2.037 0 1.492 1.492 0 0 1 0-2.079l7.824-7.987L.428 2.51a1.492 						1.492 0 0 1 0-2.08 1.42 1.42 0 0 1 2.037 0l8.842 9.027c.281.287.422.663.422 1.04 0 .376-.14.752-.422 1.039z"></path>
+    </g>
+</svg>
+</i>
+    </div>
+    <div class="filler--padded js-collapsible__body">
+        
+<p>از بین کسایی که موفق شدن گنج میرزا رو پیدا کنن به قید قرعه:</p>
+<p><strong>یک جایزه 2 میلیون تومانی برای یک نفر 😍</strong></p>
+<p><strong>3 دوره رایگان مکتب‌خونه (به انتخاب خودتون) برای سه نفر 🎉</strong></p>
+<p></p>
+    </div>
+</div><p></p>
+<p>&nbsp;</p>
+<p><strong>🔎 از کجا شروع کنیم؟&nbsp;</strong></p>
+<p><strong>برای پیدا کردن اولین راهنمای میرزا این صفحه رو خوب بگرد!</strong></p>
+<p><br>&nbsp;</p><div class="white-cell filler">
+    <div class="filler--padded flex-nowrap js-collapsible__title">
+        <div class="filler--nowrap">
+             👀&nbsp; <strong>راهنمایی بیشتر:</strong> 
+        </div>
+
+        <i class="svg-icon--24 js-collapsible__toggler-icon"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1000" viewBox="0 0 24 24">
+    <g fill="none" fill-rule="evenodd" transform="rotate(90 8 14.5)">
+        <path d="M11.307 11.536l-8.842 9.026a1.419 1.419 0 0 1-2.037 0 1.492 1.492 0 0 1 0-2.079l7.824-7.987L.428 2.51a1.492 						1.492 0 0 1 0-2.08 1.42 1.42 0 0 1 2.037 0l8.842 9.027c.281.287.422.663.422 1.04 0 .376-.14.752-.422 1.039z"></path>
+    </g>
+</svg>
+</i>
+    </div>
+    <div class="filler--padded js-collapsible__body">
+         &nbsp;تو سورس کد مکتب‌خونه، یک دیو میرزا رو پنهان کرده.&nbsp;<br>میرزا راهنمای یک گنج پنهان است. پیداش کن، حرفهاش رو گوش بده و دنبالش کن تا کلید گنجو بدست بیاری 
+    </div>
+</div><p></p>
+<p>&nbsp;</p>
+<p>&nbsp;اگه نتونستی از پس این چالش بربیای ناراحت نباش، از دوره‌های آموزشی مکتب‌خونه استفاده کن تا تو چالش بعدی برنده باشی ;)</p>
+<p><br>به مناسبت روز برنامه‌نویس <strong><span style="text-decoration: underline;">تخفیف ویژه</span></strong> داریم که از اینجا می‌تونید ببینید:</p>
+<p style="text-align: justify;">&nbsp;</p>
+<p>
+                            </p><div class="filler center-aligned">
+                                <a class="button fl1" target="_blank" href="https://maktabkhooneh.org/landing/programmersday/?utm_source=Landing&amp;utm_medium=CTA&amp;utm_campaign=happy-programmers-day" dideo-checked="true">مشاهده تخفیف‌ها</a>
+                            </div>
+                         <p></p>
+<p>&nbsp;</p>
+
+            </div>
+            
+            <div class="custom-landing__courses">
+                
+            </div>
+            <div class="custom-landing__courses">
+                <div class="custom-landing__courses-field">
+                    
+                </div>
+            </div>
+        </div>
+
+    </div>
+    
+        <div class="">
+            <div class="riddles-in-the-dark">-</div>
+            <div class="riddles-in-the-dark">w</div>
+            <div class="riddles-in-the-dark">p</div>
+            <div class="riddles-in-the-dark">/</div>
+            <div class="riddles-in-the-dark">h</div>
+            <div class="riddles-in-the-dark">l</div>
+            <div class="riddles-in-the-dark">o</div>
+            <div class="riddles-in-the-dark">e</div>
+            <div class="riddles-in-the-dark">r</div>
+            <div class="riddles-in-the-dark">l</div>
+            <div class="riddles-in-the-dark">o</div>
+            <div class="riddles-in-the-dark">a</div>
+            <div class="riddles-in-the-dark">l</div>
+            <div class="riddles-in-the-dark">d</div>
+            <div class="riddles-in-the-dark">/</div>
+            <div class="riddles-in-the-dark">i</div>
+            <div class="riddles-in-the-dark">/</div>
+        </div>
+    
+
+
+        <!-- /Content -->
+
+    </div>
+    <!--/content-container-->
+
+    <!-- Footer -->
+    
+
+
+
+
+
+
+
+    <!-- /Content -->
+    <div class="js-overlay-message" id="page_message">
+        <div id="page_message__body">
+            <div id="page_message__text"></div>
+            <div id="page_message__actions"></div>
+        </div>
+    </div>
+</div>
+
+<script type="application/ld+json">
+    {
+        "@context": "http://schema.org",
+        "@type": "Organization",
+        "url": "https://maktabkhooneh.org",
+        "logo": "https://maktabkhooneh.org/static/Images/newlogoblue.png",
+        "contactPoint": [{
+            "@type": "ContactPoint",
+            "email": "info@maktabkhooneh.org",
+            "contactType": "customer service"
+        }]
+    }
+</script>
+
+<script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "WebSite",
+      "url": "https://maktabkhooneh.org/",
+      "potentialAction": {
+        "@type": "SearchAction",
+        "target": "https://maktabkhooneh.org/learn?q={search_term_string}",
+        "query-input": "required name=search_term_string"
+      }
+    }
+</script>
+
+
+    <script type="text/javascript" id="">(function(){var a=document.createElement("script");a.setAttribute("type","text/javascript");a.setAttribute("src","https://s1.mediaad.org/serve/695/retargeting.js");document.head.appendChild(a)})();</script><script type="text/javascript" id="">!function(c,a,b){c.yektanetAnalyticsObject=b;c[b]=c[b]||function(){c[b].q.push(arguments)};c[b].q=c[b].q||[];var d=new Date;d=d.getFullYear().toString()+"0"+d.getMonth()+"0"+d.getDate()+"0"+d.getHours();var e=a.getElementsByTagName("script")[0];a=a.createElement("script");a.id="ua-script-yn-1977-adv";a.dataset.analyticsobject=b;a.async=1;a.type="text/javascript";a.src="https://cdn.yektanet.com/rg_woebegone/scripts_v2/yn-1977-adv/rg.complete.js?v\x3d"+d;e.parentNode.insertBefore(a,e)}(window,document,
+"yektanet");</script><script src="./مکتب_خونه _ آکادمی آنلاین تخصص_ها_files/jquery-3.3.1.min.js.download" type="text/javascript"></script>
+    <script src="./مکتب_خونه _ آکادمی آنلاین تخصص_ها_files/main.min.js.download" type="text/javascript"></script>
+
+    <script type="application/javascript">
+        $('.flickity').flickity({
+            // options
+            freeScroll: true,
+            cellAlign: 'right',
+            rightToLeft: true,
+            contain: true,
+            pageDots: false,
+            groupCells: true,
+        });
+    </script>
+    
+    
+        
+        
+            <script type="text/javascript" src="./مکتب_خونه _ آکادمی آنلاین تخصص_ها_files/chat.js.download"></script>
+            <script type="text/javascript">
+                $(function() {
+                    new ZammadChat({
+                        background: '#0e93a3',
+                        fontSize: '12px',
+                        chatId: 1,
+                        flat: true,
+                        show: true,
+                        title: 'با ما سخن بگو'
+                    });
+                });
+            </script>
+        
+    
+
+    
+
+    
+
+
+    
+
+    <script type="application/javascript">
+        $(".riddles-in-the-dark").on('click', function(){
+            $(this).addClass('clicked')
+        })
+    </script>
+
+
+    <script type="text/javascript">
+        $(document).ready(function(){
+            enamad = "<img class='enamad' id='xlapbrgwbrgwdrftwmcs' style='cursor:pointer;' onclick='window.open(\"https://trustseal.enamad.ir/Verify.aspx?id=36618&p=fuixhwmbhwmbnbpdaqgw\", \"Popup\",\"toolbar=no, location=no, statusbar=no, menubar=no, scrollbars=1, resizable=0, width=580, height=600, top=30\")' alt='' src='https://trustseal.enamad.ir/logo.aspx?id=36618&p=vjymkzoekzoelznbukaq'/>";
+            enamad += "<img id='wlaofukzesgtfukzapfu' style='cursor:pointer; ' onclick='window.open(\"https://logo.samandehi.ir/Verify.aspx?id=46065&p=aodsgvkaobpdgvkadshw\", \"Popup\",\"toolbar=no, scrollbars=no, location=no, statusbar=no, menubar=no, resizable=0, width=450, height=630, top=30\")' alt='logo-samandehi' src='https://logo.samandehi.ir/logo.aspx?id=46065&p=shwlwlbqlymawlbqujyn'/>";
+            $(".namad-wrapper").html(enamad)
+            $("#js-newsletter").submit(function(e){
+                var form = $(this);
+                e.preventDefault()
+                if ($("#js-newsletter_email") != "")
+                {
+                    show_message('لطفاً منتظر بمانید..');
+                    $.post("/newsletter-subscribe?u=g", form.serialize(), function(responseData) {
+                        show_message(responseData.message);
+
+                    });
+                }
+            })
+        });
+
+        function checkIntroCookie() {
+            var hint_show = HelperFunctions.getCookie("hint_show");
+            if (!hint_show) {
+                hint_show = true;
+                HelperFunctions.setCookie("hint_show", hint_show, 30);
+                introJs().start()
+            } else {
+                alert(hint_show)
+            }
+        }
+        
+
+        function checkGetPhoneCookie(){
+            var set_number_show = HelperFunctions.getCookie("check_phone_number");
+            if (!set_number_show) {
+                set_number_show = true;
+                HelperFunctions.setCookie("check_phone_number", set_number_show, 7);
+                set_number_box()
+            }
+        }
+
+        function set_number_box() {
+            var text = "کاربر گرامی؛<br>به منظور ارائه هر چه شایسته‌تر خدمات، لطفا شماره تلفن همراه خود را وارد نمایید:";
+            var primary = {'type': 'link', 'href': '/profile/', 'text': 'ثبت شماره تلفن در پروفایل'}
+            var secondary = {'type': 'button', 'onclick': 'close_message()', 'text': 'بعدا یادآوری کن'}
+            show_message(text, primary, secondary);
+        }
+    </script>
+
+
+
+<iframe name="_hjRemoteVarsFrame" title="_hjRemoteVarsFrame" id="_hjRemoteVarsFrame" src="./مکتب_خونه _ آکادمی آنلاین تخصص_ها_files/box-469cf41adb11dc78be68c1ae7f9457a4.html" style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;"></iframe><div style="visibility: hidden; position: absolute; width: 100%; top: -10000px; left: 0px; right: 0px; transition: visibility 0s linear 0.3s, opacity 0.3s linear 0s; opacity: 0;"><div style="width: 100%; height: 100%; position: fixed; top: 0px; left: 0px; z-index: 2000000000; background-color: rgb(255, 255, 255); opacity: 0.5;"></div><div style="margin: 0px auto; top: 0px; left: 0px; right: 0px; position: absolute; border: 1px solid rgb(204, 204, 204); z-index: 2000000000; background-color: rgb(255, 255, 255); overflow: hidden;"><iframe title="recaptcha challenge" src="./مکتب_خونه _ آکادمی آنلاین تخصص_ها_files/bframe.html" name="c-lk5dmtt68jyq" frameborder="0" scrolling="no" sandbox="allow-forms allow-popups allow-same-origin allow-scripts allow-top-navigation allow-modals allow-popups-to-escape-sandbox" style="width: 100%; height: 100%;"></iframe></div></div><iframe src="./مکتب_خونه _ آکادمی آنلاین تخصص_ها_files/fingerprint.html" style="display: none;"></iframe></body></html>
